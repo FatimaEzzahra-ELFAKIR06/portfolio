@@ -77,7 +77,7 @@ params:
     title: "Fatima Ezzahraa ELFAKIR ."
     subtitle: "Building solutions for people is what I do, driven by my passion for programming, also I'm passionate about Astronomy."
     content: "Just as the stars align in perfect harmony, I bring design and functionality together to create seamless web experiences."
-    image: "/images/hero.svg"
+    image: "/images/mee.png"
     bottomImage:
       enable: true
     button:
